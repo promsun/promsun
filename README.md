@@ -13,11 +13,11 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [เจาะลึกการใช้งาน SQL | In-Depth SQL | EP05](https://medium.com/@promsun.9/%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-sql-in-depth-sql-ep05-4179b4fa527f?source=rss-ce28d49bf3a5------2)
+- [เจาะลึกการใช้งาน SQL | In-Depth SQL | EP04](https://medium.com/@promsun.9/%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-sql-in-depth-sql-ep04-1ed45168e377?source=rss-ce28d49bf3a5------2)
 - [เจาะลึกการใช้งาน SQL | In-Depth SQL | EP03](https://medium.com/@promsun.9/%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-sql-in-depth-sql-ep03-437ad751b216?source=rss-ce28d49bf3a5------2)
 - [Basic Cloud Computing | EP03](https://medium.com/@promsun.9/basic-cloud-computing-ep03-4efa947c3654?source=rss-ce28d49bf3a5------2)
 - [Basic Cloud Computing | EP02](https://medium.com/@promsun.9/basic-cloud-computing-ep02-d9e5b5ba2e29?source=rss-ce28d49bf3a5------2)
-- [เจาะลึกการใช้งาน SQL | In-Depth SQL | EP02](https://medium.com/@promsun.9/%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-sql-in-depth-sql-ep02-063846ebef1a?source=rss-ce28d49bf3a5------2)
-- [เจาะลึกการใช้งาน SQL | In-Depth SQL | EP01](https://medium.com/@promsun.9/%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-sql-in-depth-sql-ep01-2f0713b9b1d8?source=rss-ce28d49bf3a5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
